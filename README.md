@@ -37,6 +37,6 @@ The Elevator Display Simulation project presents an interactive display of an ei
 
 - [Sowmya Venigalla](https://github.com/savasyavenigalla)
 - [Metlapalli Ragini](https://github.com/Ragini-Metlapalli)
-- [Saniya Ismail Kondkar]()
+- [Saniya Ismail Kondkar](https://github.com/saniyaismail)
 
 
